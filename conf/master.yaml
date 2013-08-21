@@ -1,0 +1,6 @@
+listen_addr: :1234
+is_master: true
+is_minion: true
+masters:
+  - 127.0.0.1:1234
+node_id: "angbad"
